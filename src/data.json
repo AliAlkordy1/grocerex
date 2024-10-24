@@ -1,0 +1,88 @@
+ [
+      {
+        "id": 0,
+        "name": "Apple",
+        "price": 1.50,
+        "discountPrice": 1.20,
+        "img": "https://img-preview.myshopline.com/image/store/1711320271056/vcg2li4lw.png?w=500&h=500"
+      },
+      {
+        "id": 1,
+        "name": "Banana",
+        "price": 0.50,
+        "discountPrice": 0.40,
+        "img": "https://scene7.samsclub.com/is/image/samsclub/0071752480873_A"
+      },
+      {
+        "id": 2,
+        "name": "Milk",
+        "price": 2.00,
+        "discountPrice": 1.80,
+        "img": "https://img.freepik.com/free-vector/milk-bottle-realistic_1284-6148.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Bread",
+        "price": 2.50,
+        "discountPrice": 2.00,
+        "img": "https://theloadedkitchen.com/ami/wp-content/uploads/sites/3/2022/01/large_14c118e4-af2e-4ff0-b645-5eb6212c72e3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Eggs",
+        "price": 3.00,
+        "discountPrice": 2.50,
+        "img": "https://www.creamline.co.uk/storage/images/catalogue/organic-free-range-eggs-pack-of-6.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "Cheese",
+        "price": 4.00,
+        "discountPrice": 3.50,
+        "img": "https://ui.assets-asda.com/dm/3073781047882"
+      },
+      {
+        "id": 6,
+        "name": "Tomatoes",
+        "price": 1.20,
+        "discountPrice": 1.00,
+        "img": "https://aljazirasupermarkets.com/media/catalog/product/cache/9736ec9f43babd39773a96ae3b024827/8/2/8232_1.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Potatoes",
+        "price": 0.80,
+        "discountPrice": 0.70,
+        "img": "https://www.scottybrand.com/wp-content/uploads/2019/02/SB_2020_Potato_Pack_Visuals-2kg-lo.png"
+      },
+      {
+        "id": 8,
+        "name": "Chicken Breast",
+        "price": 6.00,
+        "discountPrice": 5.50,
+        "img": "https://m.media-amazon.com/images/I/71kUSh8pyiL.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Orange Juice",
+        "price": 3.50,
+        "discountPrice": 3.00,
+        "img": "https://hips.hearstapps.com/hmg-prod/images/orange-juice-minute-maid-1529098816.jpeg"
+      }
+      ,
+      {
+        "id": 10,
+        "name": "banana Juice",
+        "price": 4.50,
+        "discountPrice": 3.00,
+        "img": "https://tandobeverage.com/wp-content/uploads/2021/01/FD-C050-banana-600x600.jpg"
+      }
+      ,
+      {
+        "id": 11,
+        "name": "mango fruit",
+        "price": 5.50,
+        "discountPrice": 4.00,
+        "img": "https://cdn11.bigcommerce.com/s-a4amd7x8/images/stencil/1280x1280/products/10891/11419/null__17006__04086.1596269409.jpg?c=2"
+      }
+    ]
