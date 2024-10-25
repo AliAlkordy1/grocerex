@@ -1,6 +1,7 @@
 import Navbar from './components/navbar.jsx';
 import Body from './components/body.jsx';
 import DealOfTheMonth from './components/dealOfTheMonth.jsx';
+import Footer from './components/Footer.jsx';
 function App() {
 
 
@@ -9,6 +10,7 @@ function App() {
       <Navbar/>
       <Body/>
       <DealOfTheMonth/>
+      <Footer/>
     </>
   )
 }
