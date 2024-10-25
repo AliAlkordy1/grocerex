@@ -32,6 +32,7 @@
     justify-content: space-between;
     align-items: center;
     margin-top: 50px;
+    gap: 10px;
     cursor: pointer;
 }
 .right-nav-support-account p{
@@ -73,14 +74,15 @@
     width: 700px;
 }
 
-.herat-cart-div{
+.heart-cart-div{
     display: inline-flex;
     align-items: center;
+    gap: 10px;
     
 }
-.herat-cart-div p{
+.heart-cart-div p{
     font-size: 20px;
     color: #00B2EA;
     cursor: pointer;
-    margin: 0 10px 0 10px;
+
 }

@@ -12,7 +12,7 @@ export default function Body() {
   return (
     <>
       <div className="product-container">
-        {products.map((product) => (
+        {products.slice(0,12).map((product) => (
           <div key={product.id} className="product-card">
             <img src={product.img} alt={product.name} className="card-img"/>
             <h2>{product.name}</h2>

@@ -85,4 +85,11 @@
         "discountPrice": 4.00,
         "img": "https://cdn11.bigcommerce.com/s-a4amd7x8/images/stencil/1280x1280/products/10891/11419/null__17006__04086.1596269409.jpg?c=2"
       }
+      ,
+      {
+        "id": 12,
+        "name": "humus",
+        "price": 5.50,
+        "img": "https://www.kayco.com/wp-content/uploads/import/media/900100.png"
+      }
     ]
